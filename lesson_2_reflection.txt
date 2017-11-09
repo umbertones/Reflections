@@ -18,4 +18,10 @@ How do the diagrams help you visualize the branch structure?
 
 	You'll see immediately what commit is on what branch, where are the unreachable commits and when the strings were put together
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
+	You'll bring two different sets of changes together. Thats why the two branches in the diagram end up as one
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pros: easy, quick - Cons: sometimes may introduce bugs because the automatic did not get the conecpt
